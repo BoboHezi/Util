@@ -4,6 +4,7 @@
 	background-color: rgba(107, 107, 107, 0.7);
 	position: fixed;
 	top: 0;
+	z-index: 2000;
 }
 .info-box {
 	width: 30%;
