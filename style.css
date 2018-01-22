@@ -10,7 +10,7 @@
 	width: 30%;
 	height: 600px;
 	background: #ffffff;
-	margin: 100px 35%;
+	margin: 100px auto;
 	border-radius:  5px;
 	box-shadow: 5px 5px 5px #7d7d7d;
 }
@@ -100,22 +100,22 @@ button {
 }
 
 @keyframes box-moveSide {
-	from {margin: 100px 35%;}
+	from {margin: 100px auto;}
 	to {margin: 100px 70%;}
 }
 
 @-moz-keyframes box-moveSide {
-	from {margin: 100px 35%;}
+	from {margin: 100px auto;}
 	to {margin: 100px 70%;}
 }
 
 @-webkit-keyframes box-moveSide {
-	from {margin: 100px 35%;}
+	from {margin: 100px auto;}
 	to {margin: 100px 70%;}
 }
 
 @-o-keyframes box-moveSide {
-	from {margin: 100px 35%;}
+	from {margin: 100px auto;}
 	to {margin: 100px 70%;}
 }
 
