@@ -1,6 +1,6 @@
 #popdiv {
 	width: 100%;
-	height: 949px;
+	height: 100%;
 	background-color: rgba(107, 107, 107, 0.7);
 	position: fixed;
 	top: 0;
@@ -8,9 +8,9 @@
 }
 .info-box {
 	width: 30%;
-	height: 600px;
+	height: 80%;
 	background: #ffffff;
-	margin: 100px auto;
+	margin: 5% 35%;
 	border-radius:  5px;
 	box-shadow: 5px 5px 5px #7d7d7d;
 }
@@ -100,23 +100,23 @@ button {
 }
 
 @keyframes box-moveSide {
-	from {margin: 100px auto;}
-	to {margin: 100px 70%;}
+	from {margin: 5% 35%;}
+	to {margin: 5% 70%;}
 }
 
 @-moz-keyframes box-moveSide {
-	from {margin: 100px auto;}
-	to {margin: 100px 70%;}
+	from {margin: 5% 35%;}
+	to {margin: 5% 70%;}
 }
 
 @-webkit-keyframes box-moveSide {
-	from {margin: 100px auto;}
-	to {margin: 100px 70%;}
+	from {margin: 5% 35%;}
+	to {margin: 5% 70%;}
 }
 
 @-o-keyframes box-moveSide {
-	from {margin: 100px auto;}
-	to {margin: 100px 70%;}
+	from {margin: 5% 35%;}
+	to {margin: 5% 70%;}
 }
 
 @keyframes box-alpha {
