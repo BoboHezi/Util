@@ -87,19 +87,12 @@
 }
 
 #time-start {
-	padding-left: 10px;
+	padding-left: 18px;
 }
 
-#time-end:befor {
-	content: "";
-	position: relative;
-	width: 10px;
-    height: 2px;
-    background: #000;
-}
 #time-end {
 	margin-left: -5px;
-	padding-left: 20px;
+	padding-left: 18px;
 }
 
 button {
