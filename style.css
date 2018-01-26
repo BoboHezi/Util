@@ -86,16 +86,20 @@
 	text-align: center;
 }
 
-#time-start:after {
+#time-start {
+	padding-left: 10px;
+}
+
+#time-end:befor {
 	content: "";
 	position: relative;
 	width: 10px;
-	height: 2px;
-	background: #000;
+    height: 2px;
+    background: #000;
 }
 #time-end {
-	margin-left: -4px;
-	padding-left: 30px;
+	margin-left: -5px;
+	padding-left: 20px;
 }
 
 button {
